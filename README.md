@@ -24,7 +24,7 @@ tags: [Christmas, Blog]
 ---
 ```
 
-This typescript package allows you to strongly type read meta data from markdown.
+This typescript node package allows you to strongly type read meta data from markdown.
 Additionaly, you can return the content of the markdown without the meta data.
 This is useful where a 'markdown to html' package renders the section as a table - e.g. GitHub
 
