@@ -1,11 +1,3 @@
----
-slug: blog-post
-title: A blog post
-date: 2021-12-25
-excerpt: 'Christmas blogging'
-tags: [Christmas, Blog]
----
-
 # markdown-meta-reader
 
 Read / strip meta data from markdown
